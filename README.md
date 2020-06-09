@@ -1,2 +1,2 @@
 # Next-Level-Week
-Next Level week was a programm managed by Rocketseat where developers created a web application project named Ecoleta.
+Next Level Week was a journey runned by Rocketseat where developers worked hard to create a web application project named Ecoleta from beggining to the end.
